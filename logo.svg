@@ -1,0 +1,8 @@
+<svg width="220" height="100" viewBox="0 0 220 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon Part -->
+  <!-- Changed stroke to #292524 (dark) to be visible on light background -->
+  <path d="M75 25L20 48L46 58L56 84L75 25Z" fill="#ea580c" stroke="#292524" stroke-width="4" stroke-linejoin="round"/>
+  
+  <!-- Text Part - Dark color for Light Mode -->
+  <text x="85" y="68" font-family="sans-serif" font-weight="bold" font-size="60" fill="#292524">mail</text>
+</svg>
