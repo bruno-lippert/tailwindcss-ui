@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "subject": "Reunião de alinhamento do projeto",
+    "from": "carla.souza@inovatech.com.br",
+    "body": "Olá, gostaria de confirmar nossa reunião de alinhamento amanhã às 14h. Pode me avisar se o horário continua ok para você?",
+    "createdAt": "2023-01-01 08:30:00"
+  },
+  {
+    "id": "2",
+    "subject": "Envio de proposta comercial",
+    "from": "marcos.almeida@solucoesweb.com",
+    "body": "Segue em anexo a proposta conforme conversamos. Fico à disposição para esclarecer qualquer dúvida ou ajustar os valores.",
+    "createdAt": "2023-01-02 10:15:00"
+  },
+  {
+    "id": "3",
+    "subject": "Atualização do sistema",
+    "from": "suporte@sistemafacil.com.br",
+    "body": "Informamos que o sistema passará por uma atualização programada nesta sexta-feira às 22h. O acesso poderá ficar indisponível por até 1 hora.",
+    "createdAt": "2023-01-03 14:00:00"
+  },
+  {
+    "id": "4",
+    "subject": "Confirmação de pagamento",
+    "from": "financeiro@empresaalpha.com.br",
+    "body": "Recebemos o pagamento referente à fatura 4587. Agradecemos pela pontualidade e permanecemos à disposição.",
+    "createdAt": "2023-01-04 09:45:00"
+  },
+  {
+    "id": "5",
+    "subject": "Convite para evento corporativo",
+    "from": "eventos@networkpro.com.br",
+    "body": "Você está convidado para nosso evento anual de tecnologia. Será uma ótima oportunidade para networking e troca de experiências.",
+    "createdAt": "2023-01-05 11:20:00"
+  },
+  {
+    "id": "6",
+    "subject": "Solicitação de documentos",
+    "from": "rh@talentosbrasil.com",
+    "body": "Para darmos continuidade ao seu processo, precisamos que envie os documentos solicitados até o final da semana.",
+    "createdAt": "2023-01-06 16:30:00"
+  },
+  {
+    "id": "7",
+    "subject": "Feedback sobre a entrega",
+    "from": "ana.pereira@designcriativo.com",
+    "body": "Recebemos o material enviado e gostamos bastante do resultado. Apenas sugerimos pequenos ajustes nas cores da apresentação.",
+    "createdAt": "2023-01-07 13:10:00"
+  },
+  {
+    "id": "8",
+    "subject": "Agendamento de suporte técnico",
+    "from": "atendimento@helpdeskpro.com",
+    "body": "Seu chamado foi registrado com sucesso. Nossa equipe entrará em contato nas próximas horas para realizar o atendimento.",
+    "createdAt": "2023-01-08 10:00:00"
+  },
+  {
+    "id": "9",
+    "subject": "Boas-vindas à plataforma",
+    "from": "no-reply@plataformaonline.com",
+    "body": "Seja bem-vindo à nossa plataforma! Estamos felizes em ter você conosco. Explore os recursos e conte com nosso suporte.",
+    "createdAt": "2023-01-09 08:00:00"
+  },
+  {
+    "id": "10",
+    "subject": "Lembrete de vencimento",
+    "from": "cobranca@servicosdigital.com.br",
+    "body": "Este é um lembrete de que sua fatura vence em 3 dias. Caso já tenha efetuado o pagamento, desconsidere esta mensagem.",
+    "createdAt": "2023-01-10 17:00:00"
+  },
+  {
+    "id": "11",
+    "subject": "Atualização de contrato",
+    "from": "juridico@consultcorp.com.br",
+    "body": "Revisamos as cláusulas do contrato e enviamos a versão atualizada para sua análise. Aguardo seu retorno para prosseguirmos.",
+    "createdAt": "2023-01-11 11:45:00"
+  },
+  {
+    "id": "12",
+    "subject": "Pesquisa de satisfação",
+    "from": "pesquisa@qualidadeplus.com",
+    "body": "Sua opinião é muito importante para nós. Poderia responder nossa pesquisa rápida sobre o atendimento recebido?",
+    "createdAt": "2023-01-12 15:30:00"
+  },
+  {
+    "id": "13",
+    "subject": "Alteração de horário",
+    "from": "lucas.martins@arquiteturaurbana.com",
+    "body": "Preciso reagendar nossa reunião para quinta-feira no mesmo horário. Por favor, confirme se é possível para você.",
+    "createdAt": "2023-01-13 09:15:00"
+  },
+  {
+    "id": "14",
+    "subject": "Envio de relatório mensal",
+    "from": "relatorios@gestaointeligente.com.br",
+    "body": "Segue o relatório mensal com os principais indicadores e resultados. Qualquer dúvida, fico à disposição.",
+    "createdAt": "2023-01-14 14:50:00"
+  },
+  {
+    "id": "15",
+    "subject": "Atualização cadastral",
+    "from": "cadastro@bancodigital.com.br",
+    "body": "Identificamos a necessidade de atualizar alguns dados do seu cadastro. Por favor, acesse sua conta e revise as informações.",
+    "createdAt": "2023-01-15 10:25:00"
+  },
+  {
+    "id": "16",
+    "subject": "Proposta de parceria",
+    "from": "parcerias@midiamax.com",
+    "body": "Gostaríamos de conversar sobre uma possível parceria estratégica entre nossas empresas. Podemos agendar uma call esta semana?",
+    "createdAt": "2023-01-16 16:10:00"
+  },
+  {
+    "id": "17",
+    "subject": "Confirmação de inscrição",
+    "from": "inscricoes@cursotech.com.br",
+    "body": "Sua inscrição no curso foi confirmada com sucesso. Em breve você receberá as instruções de acesso por e-mail.",
+    "createdAt": "2023-01-17 11:00:00"
+  },
+  {
+    "id": "18",
+    "subject": "Atualização de entrega",
+    "from": "logistica@transportesrapido.com.br",
+    "body": "Seu pedido saiu para entrega e deve chegar até o final do dia. Acompanhe o status pelo link enviado anteriormente.",
+    "createdAt": "2023-01-18 08:45:00"
+  },
+  {
+    "id": "19",
+    "subject": "Revisão de orçamento",
+    "from": "orcaments@engenhariaplus.com.br",
+    "body": "Analisamos o orçamento solicitado e ajustamos alguns itens conforme discutido. Confira a nova versão em anexo.",
+    "createdAt": "2023-01-19 13:20:00"
+  },
+  {
+    "id": "20",
+    "subject": "Agradecimento pelo contato",
+    "from": "contato@startupvision.com",
+    "body": "Agradecemos seu interesse em nossos serviços. Nossa equipe comercial retornará em breve com mais informações.",
+    "createdAt": "2023-01-20 15:00:00"
+  }
+]

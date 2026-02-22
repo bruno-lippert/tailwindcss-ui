@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+:root {
+  /* --- CORES BASE (Soft Paper) --- */
+  --background: #fdfbf7; /* Off-white amarelado */
+  --background-secondary: #f5f2eb;
+  --search-background: #f5f2eb;
+  --sidebar: #f5f2eb; /* Bege sutil */
+  --border: #e6e2d8; /* Divisórias orgânicas */
+
+  /* --- CORES DE TEXTO --- */
+  --text-main: #292524; /* Stone-800: Títulos, Assuntos, Corpo do e-mail */
+  --text-muted: #78716c; /* Stone-500: Datas, Remetente secundário, Placeholder */
+  --text-on-primary: #ffffff; /* Texto branco para usar dentro de botões coloridos */
+
+  /* --- primary / DESTAQUE (Laranja) --- */
+  --primary: #ea580c; /* Orange-600 */
+  --primary-hover: #c2410c; /* Orange-700 */
+
+  --button-hover: #f5f2eb;
+  --button-active: #f5f2eb;
+}
+
+.dark {
+  /* --- DARK MODE (Warm Stone) --- */
+  --background: #1c1917; /* Stone-900 */
+  --background-secondary: #292524; /* Stone-800 */
+  --search-background: #292524; /* Stone-800 */
+  --sidebar: #292524; /* Stone-800 */
+  --border: #44403c; /* Stone-700 */
+
+  /* --- TEXTO DARK --- */
+  --text-main: #fafaf9; /* Stone-50: Quase branco, mas quente */
+  --text-muted: #a8a29e; /* Stone-400: Leitura suave no escuro */
+  --text-on-primary: #ffffff; /* Mantém branco no botão */
+
+  --primary: #f97316; /* Orange-500 (Mais vibrante no escuro) */
+  --primary-hover: #ea580c; /* Orange-600 */
+
+  --button-hover: #292524;
+  --button-active: #292524;
+}
+
+@theme {
+  /* Cores de Estrutura */
+  --color-background: var(--background);
+  --color-background-secondary: var(--background-secondary);
+  --color-search-background: var(--search-background);
+  --color-sidebar: var(--sidebar);
+  --color-border: var(--border);
+
+  /* Cores de Texto */
+  --color-text-main: var(--text-main);
+  --color-text-muted: var(--text-muted);
+  --color-text-on-primary: var(--text-on-primary);
+
+  /* Cores da Marca */
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+
+  --color-button-hover: var(--button-hover);
+  --color-button-active: var(--button-active);
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
